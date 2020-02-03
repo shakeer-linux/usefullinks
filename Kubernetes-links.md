@@ -19,6 +19,7 @@ https://medium.com/@vivek_syngh/setup-a-single-node-kubernetes-cluster-on-ubuntu
 #### Basic Projects for learning to configure on kubernetes cluster
 ##### This directory contains a number of examples of how to run real applications with Kubernetes.
 https://github.com/kubernetes/examples
+
 https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/
 
 
