@@ -27,3 +27,6 @@ https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persis
 https://kubernetes.io/docs/tasks/tools/install-minikube/
 
 https://minikube.sigs.k8s.io/docs/reference/drivers/
+
+#### Getting Started with Kubernetes Installion on 2 nodes.(ubunt dist)
+https://www.linode.com/docs/kubernetes/getting-started-with-kubernetes/
