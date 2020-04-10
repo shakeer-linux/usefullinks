@@ -7,5 +7,6 @@ https://youtu.be/p3tvtXOg5rg
 
 https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl
 
-https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+https://dzone.com/articles/top-20-git-commands-with-examples
+
 
