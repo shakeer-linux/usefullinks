@@ -7,6 +7,7 @@ https://www.linuxtechi.com/experience-linux-admin-interview-questions/
 CPU Utiliztion:
 http://www.geekinterview.com/question_details/88637
 
+https://www.linuxtechi.com/linux-virtualization-interview-questions/
 
 #### About Crontab
 
@@ -24,3 +25,5 @@ https://www.networkworld.com/article/3256312/what-is-a-san-and-how-does-it-diffe
 
 All:
 https://www.enterprisestorageforum.com/products/20-top-enterprise-data-storage-vendors.html
+
+
